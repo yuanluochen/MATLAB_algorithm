@@ -12,18 +12,4 @@
 - **tool/** — 分析工具
   - [FFT 频谱分析](tool/FFT_analy.m)
   - [Simulink 扫频模型](tool/sweep_freq.slx)
-
-
-## 目录结构
-
-```
-MATLAB_algorithm/
-├── controllor/
-│   ├── ESO/            % 扩张状态观测器（含参数设计）
-│   ├── KF/             % 离散卡尔曼滤波
-│   └── MPC/            % 模型预测控制（矩阵构造 + 在线求解）
-├── tool/
-│   ├── FFT_analy.m     % FFT 频谱分析
-│   └── sweep_freq.slx  % 扫频仿真模型
-└── readme.md
-```
+  - [MAC 矩阵计算](tool/calc_MAC.m)
