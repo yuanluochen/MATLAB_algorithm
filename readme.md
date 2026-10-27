@@ -10,8 +10,8 @@
   - [卡尔曼滤波 (KF)](controllor/KF)
   - [模型预测控制 (MPC)](controllor/MPC)
 - **tool/** — 分析工具
-  - [FFT 频谱分析](tool/FFT_analy.m) — 
-  - [Simulink 扫频模型](tool/sweep_freq.slx) — 
+  - [FFT 频谱分析](tool/FFT_analy.m)
+  - [Simulink 扫频模型](tool/sweep_freq.slx)
 
 
 ## 目录结构
