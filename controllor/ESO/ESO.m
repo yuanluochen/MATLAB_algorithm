@@ -1,4 +1,4 @@
-function hat_x = LESO(params, y, u)
+function hat_x = ESO(params, y, u)
     % 非线性扩张状态观测器 (NLESO)
     % 输入:
     %   params - 结构体，包含字段:
